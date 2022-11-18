@@ -1,0 +1,20 @@
+.App {
+  margin: auto;
+  width: 50%;
+  border: 1px solid rgb(224, 224, 224);
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(236, 235, 235);
+  text-align: center;
+  margin-top: 20%;
+}
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(99, 9, 121, 0.3757878151260504) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
